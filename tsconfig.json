@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "module": "CommonJS",
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "rootDir": "./src",
+        "outDir": "./build-tsc",
+        "strict": true,
+        "skipLibCheck": true
+    }
+}
